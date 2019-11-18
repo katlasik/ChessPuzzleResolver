@@ -1,5 +1,7 @@
 # ChessPuzzleResolver
 
+[![CircleCI](https://circleci.com/gh/katlasik/ChessPuzzleResolver/tree/master.svg?style=svg)](https://circleci.com/gh/katlasik/ChessPuzzleResolver/tree/master)
+
 ## Motivation 
 
 This project is attempt to create program finding all solutions for  **generalized n queen problem**,

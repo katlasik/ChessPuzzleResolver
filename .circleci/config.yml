@@ -5,4 +5,11 @@ jobs:
       - image: hseeberger/scala-sbt:11.0.3_1.2.8_2.13.0
     steps:
       - checkout
+      - restore_cache:
+          key: chess-resolver-{{ checksum "build.sbt" }}
+      - run: sbt update
+      - save_cache:
+          paths:
+            - ~/.ivy2
+          key: chess-resolver-{{ checksum "build.sbt" }}
       - run: sbt test

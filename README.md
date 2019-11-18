@@ -4,7 +4,7 @@
 
 ## Motivation 
 
-This project is attempt to create program finding all solutions for  **generalized n queen problem**,
+This project is attempt to create program finding all solutions of **generalized n queen problem**,
 where instead of only queens you can place any pieces (except pawns).
 
 Program calculates solutions and then writes them in graphical form to output file.

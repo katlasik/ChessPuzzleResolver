@@ -1,7 +1,6 @@
 # ChessPuzzleResolver
 
 [![CircleCI](https://circleci.com/gh/katlasik/ChessPuzzleResolver/tree/master.svg?style=svg)](https://circleci.com/gh/katlasik/ChessPuzzleResolver/tree/master)
-
 [![codecov](https://codecov.io/gh/katlasik/ChessPuzzleResolver/branch/master/graph/badge.svg)](https://codecov.io/gh/katlasik/ChessPuzzleResolver)
 
 

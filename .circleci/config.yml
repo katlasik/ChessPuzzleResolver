@@ -12,5 +12,5 @@ jobs:
           paths:
             - ~/.ivy2
           key: chess-resolver-{{ checksum "build.sbt" }}
-      - run: coverage test coverageReport
+      - run: sbt coverage test coverageReport
       - run: bash <(curl -s https://codecov.io/bash)

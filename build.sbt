@@ -5,7 +5,7 @@ val CatsVersion = "1.6.0"
 val EnumeratumVersion = "1.5.13"
 val EnumeratumCatsVersion = "1.5.14"
 val ShapelessVersion = "2.3.3"
-val ScoptVersion = "3.7.1"
+val ScoptVersion = "4.0.0"
 val MonixVersion = "2.3.3"
 
 val dependencies = Seq(

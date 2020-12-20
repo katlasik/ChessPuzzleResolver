@@ -6,7 +6,7 @@ val EnumeratumVersion = "1.5.13"
 val EnumeratumCatsVersion = "1.5.14"
 val ShapelessVersion = "2.3.3"
 val ScoptVersion = "3.7.1"
-val MonixVersion = "2.3.3"
+val MonixVersion = "3.3.0"
 
 val dependencies = Seq(
   "org.typelevel" %% "cats-core" % CatsVersion,

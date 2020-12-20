@@ -1,4 +1,4 @@
-val Specs2Version = "4.2.0"
+val Specs2Version = "4.10.5"
 val LogbackVersion = "1.2.3"
 val ScalaLoggingVersion = "3.9.2"
 val CatsVersion = "1.6.0"
